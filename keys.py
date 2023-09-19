@@ -1,0 +1,5 @@
+API_KEYS = {
+    "OPENAI_KEY":"" ,
+    "SPOTIFY_CLIENT_ID":"",
+    "SPOTIFY_CLIENT_SECRET":""
+}
